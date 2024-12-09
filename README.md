@@ -33,7 +33,7 @@
 Les contributions sont les bienvenues! N'hésitez pas à ouvrir une pull request ou à soumettre des issues.
 
 🎥 Video Demo
-Check out the screen recording of the application in action: YouTube Link
+Check out the screen recording of the application in action: [YouTube Link](https://www.youtube.com/watch?v=oYuL_l5qsUA)
 
 ## 🙌 Contributeurs
 
