@@ -1,6 +1,5 @@
 
-Une application mobile innovante développée lors d'un hackathon de 24 heures au Esprit Career Center pour aider les usines SOTACIB à surveiller les prix du ciment dans les différentes régions et chez les concurrents.
-
+🏗️ Factory SOTACIB Mobile App
 ## 🏗️ Fonctionnalités Clés
 
 - **Rôles Utilisateurs**: Accès restreint pour les administrateurs et les agents commerciaux.
