@@ -39,7 +39,7 @@ Un grand merci à l'équipe talentueuse derrière ce projet durant le hackathon:
 
 **Thunder team 💪**
 
-![Login](https://github.com/user-attachments/assets/3483f440-4e44-4645-9b1c-3274660dabb9)![Details](https://github.com/user-attachments/assets/09cf98ec-cc70-4a5e-8257-17c135ac43d5)# Factory SOTACIB Mobile App
+![Login](https://github.com/user-attachments/assets/3483f440-4e44-4645-9b1c-3274660dabb9)![Details](https://github.com/user-attachments/assets/09cf98ec-cc70-4a5e-8257-17c135ac43d5)
 ![Clients](https://github.com/user-attachments/assets/423304ca-b83c-4f0f-a28e-fce98df36c6e)
 ![addarea](https://github.com/user-attachments/assets/8571ab1e-1795-489f-bc67-2abaf1edec93)
 ![Visit file](https://github.com/user-attachments/assets/e65e223c-3401-412c-a7d7-fea6ab2e8872)
