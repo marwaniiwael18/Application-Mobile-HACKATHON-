@@ -1,5 +1,5 @@
 
-🏗️ Factory SOTACIB Mobile App
+🏗️ Factory  Mobile App
 ## 🏗️ Fonctionnalités Clés
 
 - **Rôles Utilisateurs**: Accès restreint pour les administrateurs et les agents commerciaux.
@@ -22,7 +22,7 @@
 
 1. Clonez ce dépôt:
     ```bash
-    git clone https://github.com/marwaniiwael18/Application-Mobile-pour-SOTACIB-HACKATHON-.git
+    git clone https://github.com/marwaniiwael18/Application-Mobile-HACKATHON-.git
     ```
 2. Installez les dépendances.
 3. Configurez Firestore et intégrez les APIs Google Maps et Gemini.
